@@ -1,6 +1,6 @@
 import { Navbar, Container } from 'react-bootstrap'
 
-function Navbar() {
+function Navigation() {
     return (
         <Navbar bg="light" expand="lg">
             <Container fluid>
@@ -10,4 +10,4 @@ function Navbar() {
     )
 }
 
-export default Navbar;
+export default Navigation;
