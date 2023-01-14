@@ -6,7 +6,7 @@ function Home(props) {
         document.title = props.title || ""
     }, [props.title])
 
-    return
+    return 
 }
 
 export default Home;
